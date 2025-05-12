@@ -1,5 +1,7 @@
-#AIRA -> An AI powered smart email assistant
+#AIRA -> An AI powered smart email assistant.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 Email Writer (Spring AI)
+
 This project is a simple yet powerful Spring Boot application that uses Spring AI to generate professional emails based on user input. It integrates with OpenAI's API and demonstrates how to build AI-powered features within Java applications. Ideal for developers exploring the intersection of AI and backend development using Spring Boot.
 
 Key Features:
